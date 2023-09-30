@@ -1,3 +1,4 @@
+# imported another script here
 . "./PrintingEvenOdd.ps1"
 
 function AddInt
@@ -10,7 +11,7 @@ param(
    $sum = $n1 + $n2 
    return $sum
 }
-
+#stored results of method AddInt in StoreSum variable 
 $StoreSum = AddInt 
-#Write-Output $StoreSum
+#Calling Function from another script with $StoreSum argument
 EvenOdd $StoreSum
