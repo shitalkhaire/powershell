@@ -1,0 +1,3 @@
+Asia = India,Pakistan,China,japan
+Europe = Austria, Denmark,Belgium,Italy
+America = Canada, US,Mexico,Bahamas,Cuba
