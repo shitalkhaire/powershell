@@ -16,9 +16,9 @@ write-output "Product Price is $ProductPrice"
 $output = @($userName,$userId,$ProductName,$ProductPrice)
 #Write-Output "---------------------------------------------------------$output"
 
-$output | Add-Content -Path D:\Powershell\Projects\Sample\userinfo.txt
+$output | Add-Content -Path D:\Powershell\Projects\powershell\Scripts\userinfo.txt
 Write-Output "File Information is here.."
-$filesRecords = Get-Content -path D:\Powershell\Projects\Sample\userinfo.txt
+$filesRecords = Get-Content -path D:\Powershell\Projects\powershell\Scripts\userinfo.txt
 $lines = 0
 $productCount = 0
 
