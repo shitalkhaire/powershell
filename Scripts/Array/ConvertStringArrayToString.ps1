@@ -1,4 +1,4 @@
-$StrArray = @("I am Katarina","im 32 year old","and living in US")
+$StrArray = @("I am Shital","im 29 year old","and im from india")
 #Write-Host "---------" $StrArray
 $Tempstr =""
 foreach($str in $StrArray)
