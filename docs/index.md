@@ -5,3 +5,5 @@
 
 [Powershell Hash Tables](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_hash_tables?view=powershell-7.3)
 [Hash Table more ](https://www.tutorialspoint.com/powershell/powershell_hashtables.)
+
+[Splatting](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-7.3)
