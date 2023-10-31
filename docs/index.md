@@ -7,3 +7,8 @@
 [Hash Table more ](https://www.tutorialspoint.com/powershell/powershell_hashtables.)
 
 [Splatting](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_splatting?view=powershell-7.3)
+
+[Running Remote Command](https://learn.microsoft.com/en-us/powershell/scripting/learn/remoting/running-remote-commands?view=powershell-7.3)
+
+[Powershell Script On Remote Computer](https://theitbros.com/run-powershell-script-on-remote-computer)
+
